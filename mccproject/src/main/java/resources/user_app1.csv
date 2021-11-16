@@ -1,0 +1,10 @@
+1,Task1,1,LOCAL,4,http://s3.imgdatain,2500
+2,Task2,1,LOCAL,2,http://myserver.com,2500
+3,Task3,1,LOCAL,2,http://myserver.com,2500
+4,Task4,4,http://s3.imgdatain,2,http://myserver.com,2500
+5,Task5,2,http://myserver.com,1,LOCAL,2500
+6,Task6,1,LOCAL,4,http://s3.imgdatain,2500
+7,Task7,1,LOCAL,2,http://myserver.com,2500
+8,Task8,1,LOCAL,2,http://myserver.com,2500
+9,Task9,4,http://s3.imgdatain,2,http://myserver.com,2500
+10,Task10,2,http://myserver.com,1,LOCAL,2500
